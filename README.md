@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0102-binary-tree-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
