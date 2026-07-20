@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
