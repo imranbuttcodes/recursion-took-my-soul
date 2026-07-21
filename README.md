@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
