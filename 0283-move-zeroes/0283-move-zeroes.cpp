@@ -26,5 +26,6 @@ public:
                 j++;
             }
         }
+        // That was 0(n)
     }
 };
