@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1929-concatenation-of-array) |
@@ -73,14 +74,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
