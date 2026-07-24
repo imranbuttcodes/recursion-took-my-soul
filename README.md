@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1929-concatenation-of-array) |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0053-maximum-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
