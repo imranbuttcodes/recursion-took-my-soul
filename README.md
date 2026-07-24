@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/imranbuttcodes/recursion-took-my-soul/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
